@@ -53,6 +53,10 @@
 
 }
 
+.list__item > figure > img:hover{
+    transform: rotatey(36deg);
+}
+
 .list__item > ol {
     align-self: flex-start;
     list-style: decimal;
