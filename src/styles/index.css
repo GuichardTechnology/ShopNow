@@ -54,7 +54,10 @@
 }
 
 .list__item > figure > img:hover{
-    transform: rotatey(36deg);
+    transform: scale(0.9);
+    transition: 0.6s;
+    transition-duration: 0.5s;
+    
 }
 
 .list__item > ol {
@@ -76,11 +79,15 @@
     font-size: 10px;
     padding: 7px 13px;
     align-self: flex-end;
+   
+}
+
+.list__item > button:hover{
+    transform: scale(1.4);
 }
 
 .list__item > ol > li {
   background-color: #f39c12;
-  
   
 }
 

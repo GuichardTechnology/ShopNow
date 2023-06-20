@@ -70,10 +70,6 @@ button:hover,.search_button:hover{
     
 }
 
-.filter__buttons ,.btn__effect:hover{
-    transform: translatex(10px);
-
-}
 
 input{
     padding: var(--padding-default);
