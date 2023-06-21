@@ -50,7 +50,6 @@ body{
     
 }
 
-
 button,.search_button{
     padding: var(--padding-default);
     border: 1px solid var(--primary-Dark);
@@ -69,7 +68,6 @@ button:hover,.search_button:hover{
     transition: 0.6s;
     
 }
-
 
 input{
     padding: var(--padding-default);
